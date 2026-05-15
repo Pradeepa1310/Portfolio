@@ -1,8 +1,2 @@
-this site is all about my personal portfolio
-In this site i have included home  there you can see the profile picture of myself 
-then a short discribtion about my studies and who i'm
-then it has education part there we can see what are the studies inhave completed 
-and current studies.
-then porject place there i have listed my project 
-then tech skills what are the things i know in technology
+Welcome to my personal portfolio website. This site showcases who I am, my educational background, projects, and technical skills. In the Home section, you can find my profile picture along with a short introduction about myself and my studies. The Education section highlights the studies I have completed and my current academic journey. In the Projects section, I have listed the projects I have worked on and developed. The Tech Skills section displays the technologies and tools I am familiar with. This portfolio represents my learning journey, interests, and passion for technology and software development.
 my portfolio--https://pradeepa1310.github.io/Portfolio/
